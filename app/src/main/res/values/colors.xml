@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#DFEAF1</color>
+    <color name="text_color">#001F48</color>
+    <color name="button_color">#F08C35</color>
+    <color name="capstone_button_color">#CA0E3D</color>
+    <color name="black">#000000</color>
+</resources>
